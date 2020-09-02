@@ -1,0 +1,22 @@
+/*
+Theme Name: Panco Moldova
+Theme URI: https://panco.md
+Author: Opposit
+Main Dev: Dumitru Galit
+Description:  Panco Moldova custom theme
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: panco
+*/
+
+.vc_row {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+.vc_column_container>.vc_column-inner,
+.wpb_column.vc_column_container{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
